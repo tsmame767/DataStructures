@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\datastructure\linkedlist\bin\Debug\net6.0\linkedlist.exe
+D:\c#\CS_Practice\datastructure\linkedlist\bin\Debug\net6.0\linkedlist.deps.json
+D:\c#\CS_Practice\datastructure\linkedlist\bin\Debug\net6.0\linkedlist.runtimeconfig.json
+D:\c#\CS_Practice\datastructure\linkedlist\bin\Debug\net6.0\linkedlist.dll
+D:\c#\CS_Practice\datastructure\linkedlist\bin\Debug\net6.0\linkedlist.pdb
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.AssemblyInfo.cs
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.sourcelink.json
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.dll
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\refint\linkedlist.dll
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.pdb
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\linkedlist.genruntimeconfig.cache
+D:\c#\CS_Practice\datastructure\linkedlist\obj\Debug\net6.0\ref\linkedlist.dll
