@@ -1,0 +1,5 @@
+D:\c#\CS_Practice\datastructure\stack\con2\obj\Debug\net6.0\con2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\datastructure\stack\con2\obj\Debug\net6.0\con2.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\datastructure\stack\con2\obj\Debug\net6.0\con2.AssemblyInfo.cs
+D:\c#\CS_Practice\datastructure\stack\con2\obj\Debug\net6.0\con2.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\datastructure\stack\con2\obj\Debug\net6.0\con2.sourcelink.json

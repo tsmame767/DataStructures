@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\datastructure\stack\stack\bin\Debug\net6.0\stack.exe
+D:\c#\CS_Practice\datastructure\stack\stack\bin\Debug\net6.0\stack.deps.json
+D:\c#\CS_Practice\datastructure\stack\stack\bin\Debug\net6.0\stack.runtimeconfig.json
+D:\c#\CS_Practice\datastructure\stack\stack\bin\Debug\net6.0\stack.dll
+D:\c#\CS_Practice\datastructure\stack\stack\bin\Debug\net6.0\stack.pdb
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.AssemblyInfo.cs
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.sourcelink.json
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.dll
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\refint\stack.dll
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.pdb
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\stack.genruntimeconfig.cache
+D:\c#\CS_Practice\datastructure\stack\stack\obj\Debug\net6.0\ref\stack.dll

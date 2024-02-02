@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.AssemblyInfo.cs
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.sourcelink.json
+D:\c#\CS_Practice\datastructure\stack\StackLL\bin\Debug\net6.0\StackLL.exe
+D:\c#\CS_Practice\datastructure\stack\StackLL\bin\Debug\net6.0\StackLL.deps.json
+D:\c#\CS_Practice\datastructure\stack\StackLL\bin\Debug\net6.0\StackLL.runtimeconfig.json
+D:\c#\CS_Practice\datastructure\stack\StackLL\bin\Debug\net6.0\StackLL.dll
+D:\c#\CS_Practice\datastructure\stack\StackLL\bin\Debug\net6.0\StackLL.pdb
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.dll
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\refint\StackLL.dll
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.pdb
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\StackLL.genruntimeconfig.cache
+D:\c#\CS_Practice\datastructure\stack\StackLL\obj\Debug\net6.0\ref\StackLL.dll
