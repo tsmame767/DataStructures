@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.AssemblyInfo.cs
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.sourcelink.json
+D:\c#\CS_Practice\datastructure\queues\queue\bin\Debug\net6.0\queue.exe
+D:\c#\CS_Practice\datastructure\queues\queue\bin\Debug\net6.0\queue.deps.json
+D:\c#\CS_Practice\datastructure\queues\queue\bin\Debug\net6.0\queue.runtimeconfig.json
+D:\c#\CS_Practice\datastructure\queues\queue\bin\Debug\net6.0\queue.dll
+D:\c#\CS_Practice\datastructure\queues\queue\bin\Debug\net6.0\queue.pdb
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.dll
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\refint\queue.dll
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.pdb
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\queue.genruntimeconfig.cache
+D:\c#\CS_Practice\datastructure\queues\queue\obj\Debug\net6.0\ref\queue.dll
