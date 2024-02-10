@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\bin\Debug\net6.0\BST.exe
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\bin\Debug\net6.0\BST.deps.json
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\bin\Debug\net6.0\BST.runtimeconfig.json
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\bin\Debug\net6.0\BST.dll
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\bin\Debug\net6.0\BST.pdb
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.AssemblyInfo.cs
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.sourcelink.json
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.dll
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\refint\BST.dll
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.pdb
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\BST.genruntimeconfig.cache
+D:\c#\CS_Practice\datastructure\BinarySearchTree\BST\obj\Debug\net6.0\ref\BST.dll
