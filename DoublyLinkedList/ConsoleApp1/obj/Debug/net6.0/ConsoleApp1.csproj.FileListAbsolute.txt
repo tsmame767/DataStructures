@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\c#\CS_Practice\datastructure\DoublyLinkedList\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
